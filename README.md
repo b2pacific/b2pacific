@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-<div class="tenor-gif-embed" data-postid="10582055" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/flower-gif-10582055">Pattern Dots GIF</a> from <a href="https://tenor.com/search/pattern-gifs">Pattern GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Alt Text](https://tenor.com/Sy2t.gif)
 
 <h1><img src="https://tenor.com/Sy2t.gif" width="30"/> Hello Everyone!</h1>
 
@@ -79,4 +80,3 @@ Here are some ideas to get you started:
 
 ---
 
--->
