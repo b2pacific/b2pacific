@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <p>I am Prashant Pandey a Fullstack Developer and System Design Enthusiast from India</p>
 <h3>Languages I have Worked with</h3>
 <p>
-<img alt="Java" src="https://img.shields.io/badge/-JavaScript-007396?style=flat-square&logo=java&logoColor=white" />
+<img alt="Assembly" src="https://img.shields.io/badge/-Assembly Language-0a0a0a?style=flat-square&logo=assembly&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c++&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
