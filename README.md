@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Alt Text](https://tenor.com/Sy2t.gif)
 
@@ -80,3 +79,4 @@ Here are some ideas to get you started:
 
 ---
 
+-->
