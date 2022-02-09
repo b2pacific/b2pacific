@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 <h1>Hello Everyone 👋</h1>
 
 <p>I am Prashant Pandey  from India</p>
+<br />
 <ul>
 <li>Currently a 3rd Year Undergrad Student at IIIT Bhopal.</li>
 <li>Pursuing my Bachelor's of Technology Degree in Electronics and Communication Engineering.</li>
-<li>Someone who has spent his college years exploring Javascript and Typescript.</li>
+<li>Someone who has spent his college years exploring different Tech Stacks and working for Startups.</li>
 <li>A Fullstack Developer, Competitive Programmer, Internet Security and System Design Enthusiast.</li>
 </ul>
 
 <h3>Languages I have Worked with</h3>
+<br />
 <p>
 <img alt="Assembly" src="https://img.shields.io/badge/-Assembly Language-0a0a0a?style=for-the-badge&logo=assembly&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -39,7 +41,9 @@ Here are some ideas to get you started:
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
 <h3>Databases I have used</h3>
+<br />
 <p> 
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
@@ -58,6 +62,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3>Hosting Services and Other</h3>
+<br />
 <p>
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" >
@@ -71,6 +76,7 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=b2pacific&theme=minimal" />
 
 <h3>You can connect with me with the links down below</h3>
+<br />
 <p>
 <a href="https://prashantpandey.dev" target="_blank"><img alt="ME" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://github.com/b2pacific" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
